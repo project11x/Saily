@@ -1,6 +1,6 @@
 # Saily Package Manager (Internal Beta)
 ### "Apple's Package Manager."  
-![avatar](https://photos5.appleinsider.com/gallery/36236-67483-888-macOS-Mail-xl.jpg)
+![avatar]()
 ## ALERT: 
 #### WE EXPECT THAT, AS AN INTERNAL TESTER, YOU DO NOT SHARE SAILY OR MAKE IT PUBLICLY KNOWN YET! Saily is still in an early beta stage and is not ready for end users just yet. Saily will remain at version 0.1.2 for some time as the the backend is being improved. Please be patient. For support, please contact @SailySupport on Twitter. For updates, follow @TrySaily on Twitter.
 
